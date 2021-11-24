@@ -54,4 +54,3 @@ if (juego1.determinaGanador == "Antonio Ramirez") {
 
 console.log("El ganador del los 3 juegos es : " + ganador);
 
-
